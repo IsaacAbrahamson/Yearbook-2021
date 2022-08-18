@@ -1,0 +1,68 @@
+extends base
+
+block styles
+  link(rel="stylesheet", href="https://unpkg.com/swiper/swiper-bundle.min.css")
+  link(rel='stylesheet', href='css/pages/events.css')
+
+block content
+  .jumbotron.alternate 
+    .overlay#particles-js
+      h1 EVENTS
+
+  .swiper-container
+    .swiper-wrapper
+      .swiper-slide
+        a(href='#August') August
+      .swiper-slide
+        a(href='#September') September
+      .swiper-slide
+        a(href='#October') October
+      .swiper-slide
+        a(href='#November') November
+      .swiper-slide
+        a(href='#December') december
+      .swiper-slide
+        a(href='#January') january
+      .swiper-slide
+        a(href='#February') february
+      .swiper-slide
+        a(href='#March') march
+      .swiper-slide
+        a(href='#April') april
+      .swiper-slide
+        a(href='#May') may
+
+
+  section
+    each month in months
+      .month-heading(id=month.name)
+        .month-title
+          h2 #{month.name} #{month.year}
+          .line
+
+      .month-content
+        each event, i in month.events
+          // event with no data should have month-image class
+          - let monthImage = event.desc == '' ? 'month-image' : ''
+          
+          // alternate each event left and right
+          .month-section(class=i % 2 ? `month-right ${monthImage}` : `month-left ${monthImage}`)
+            .mobile-header
+              h3= event.name
+            .paragraph
+              h3= event.name
+              p= event.desc
+            .grid
+              .grid-sizer
+              .gutter-sizer
+              each url, j in event.grid
+                // Add grid-item-full to first element
+                div(class=j==0 ? 'grid-item grid-item-full' : 'grid-item')
+                  img.img-fluid(src=url)
+                
+block scripts  
+  script(src='https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js')
+  script(src='js/particles-alternate.js')
+  script(src='https://unpkg.com/swiper/swiper-bundle.min.js')
+  script(src='js/masonry.min.js')
+  script(src='js/events.js')

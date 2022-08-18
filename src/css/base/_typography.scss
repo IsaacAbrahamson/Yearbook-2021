@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Bison';
+  src:  url('../assets/bison.ttf');
+}
+
+@font-face {
+  font-family: 'Benton';
+  src:  url('../assets/benton.otf');
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: 'Bison';
+  color: #26282d;
+}
+
+p {
+  font-family: 'Benton';
+  font-size: 16px;  
+  line-height: 1.7;
+  color: #26282d;
+}
+
+:root{
+  scroll-behavior: smooth;
+}
+
+@media only screen and (max-width: 425px) {
+  p {
+    font-size: 16px;
+  }
+}

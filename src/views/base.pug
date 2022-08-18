@@ -1,0 +1,80 @@
+doctype html
+html
+  //
+    Built by BJU Vintage Web and Tech Teams
+    Isaac Abrahamson      | Web Team Leader
+    Elias Watson          | Tech Team Leader
+    Gretchen Seelenbinder | Web Designer
+    Joshua Rohrer         | Web Developer
+
+  head
+    block title
+      title BJU Vintage 2021
+
+    // Meta Information
+    meta(charset='utf-8')
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    meta(name="description" content="Bob Jones University presents the 2021 Vintage.")
+    meta(name="og:description" content="Bob Jones University presents the 2021 Vintage.")
+    meta(name="og:url" content="www.bjuvintage.com/2021/index.html")
+    meta(name="og:title" content="BJU Vintage 2021: Power")
+    link(rel="icon" href="img/favicon.ico")
+
+    link(href='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl' crossorigin='anonymous')
+    link(href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet')
+    link(href="assets/hamburgers.css" rel="stylesheet")
+      
+    
+    // Base Styles
+    link(rel='stylesheet', href='css/main.css')
+
+    block styles
+  
+  body
+    nav.navbar.navbar-expand-sm.fixed-top
+      .container
+        a.navbar-brand.d-lg-inline-block(href='index.html')  VINTAGE 2021
+        button.hamburger.hamburger--squeeze.navbar-toggler(type='button' data-bs-toggle='collapse' data-bs-target='#navCollapse')
+          span.hamburger-box
+            span.hamburger-inner
+
+        #navCollapse.collapse.navbar-collapse.flex-grow-1
+          .navbar-nav.ms-auto.flex-nowrap
+            a.nav-link.m-2.menu-item(href='events.html') EVENTS
+            a.nav-link.m-2.menu-item(href='groups.html') GROUPS
+            a.nav-link.m-2.menu-item(href='search.html') SEARCH          
+
+    .content
+      block content
+
+    block footer
+      footer
+        .container
+          .row.justify-content-between
+            .col-lg-4.col-md-5
+              p.intro built by the
+              h2 Vintage Staff
+              p.copyright.d-none.d-md-block Copyright 2021 Bob Jones University
+            .col-lg-4.col-md-7
+              .menu#menu1
+                h3 Campus Media
+                a(href='https://www.collegianonline.com/' target='_blank') The Collegian
+                a(href='https://today.bju.edu/' target='_blank') BJU Today
+                a(href='https://www.listennotes.com/podcasts/highest-potential-with-steve-pettit-dr-VthUI4Yrs2q/' target='_blank') Highest Potential Podcast
+              .menu#menu2
+                h3 Previous Years
+                a(href='http://www.bjuvintage.com/2014') 2014
+                a(href='http://www.bjuvintage.com/2015') 2015
+                a(href='http://www.bjuvintage.com/2016') 2016
+                a(href='http://www.bjuvintage.com/2017') 2017
+                a(href='http://www.bjuvintage.com/2018') 2018
+                a(href='http://www.bjuvintage.com/2019') 2019
+                a(href='http://www.bjuvintage.com/2020') 2020
+              p.copyright.d-block.d-md-none Copyright 2021 Bob Jones University
+                
+
+
+    script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js' integrity='sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0' crossorigin='anonymous')
+    script(src='js/menu.js')
+
+    block scripts

@@ -1,0 +1,117 @@
+.jumbotron { 
+  background-color: black;
+  background-image: url('../img/home-graphic.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: calc(90vh - 93px);
+  position: relative;
+  overflow: hidden;
+
+  .overlay {
+    height: 100%;
+    background: rgb(0 0 0 / 20%);
+  }
+
+  h1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 400px;
+  }
+
+  @media only screen and (max-width: 1024px) {
+    // Tablet image
+    background-position: top left;
+    background-size: auto ;
+    background-image: url('../img/home-graphic-tablet.png');
+  }
+
+  @media only screen and (max-width: 991px) {
+    h1 {
+      font-size: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {  
+    height: calc(90vh - 85px);
+  }
+
+  @media only screen and (max-width: 700px) {
+    h1 {
+      font-size: 250px;
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    height: calc(60vh - 80px);
+    overflow: hidden;
+
+    h1 {
+      font-size: 250px;
+      bottom: 0;
+      left: 5px;
+      transform: none;
+      margin: 0;
+      display: flex;
+      align-items: flex-end;
+      line-height: 0.7!important;
+    }
+
+    // Mobile image
+    background-position: top left;
+    background-size: auto ;
+    background-image: url('../img/home-graphic-mobile.png');
+  }
+
+  @media only screen and (max-width: 470px) {
+    h1 {
+      font-size: 200px;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    h1 {
+      font-size: 180px;
+    }
+  }
+  @media only screen and (max-width: 350px) {
+    h1 {
+      font-size: 160px;
+    }
+  }
+}
+
+.jumbotron.alternate {
+  h1 {
+    bottom: 0;
+    left: 10%;
+    transform: none;
+    margin: 0;
+    display: flex;
+    align-items: flex-end;
+    line-height: 0.7!important;
+  }
+  @media only screen and (max-width: 800px) {
+    h1 {      
+      left: 5px;
+    }
+  }
+  @media only screen and (max-width: 450px) {
+    h1 {
+      font-size: 160px;
+    }
+  }
+  @media only screen and (max-width: 370px) {
+    h1 {
+      font-size: 140px;
+    }
+  }
+  @media only screen and (max-width: 350px) {
+    h1 {
+      font-size: 130px;
+    }
+  }
+}

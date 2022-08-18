@@ -1,0 +1,21 @@
+# finished files
+dist/
+
+# Rendered JSON
+processed_data/
+
+# npm
+node_modules/
+
+# Project files
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+venv/
+
+# Temp build files
+render_list.py.tmp-*
+
+# Other
+*.DS_Store

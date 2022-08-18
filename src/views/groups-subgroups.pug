@@ -1,0 +1,20 @@
+extends base
+
+block styles
+  link(rel='stylesheet', href='css/pages/groups.css')
+
+block scripts  
+  script(src='https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js')
+  script(src='js/particles-alternate.js')
+
+block content
+  .jumbotron.alternate
+    .overlay#particles-js
+      h1 GROUPS
+  section 
+    h2= name
+    .goback
+      a(href='groups.html') <span><</span> Back to Groups
+    .boxes
+      each subgroup in subgroups
+        a.box(href=`${subgroup}.html`)= subgroup

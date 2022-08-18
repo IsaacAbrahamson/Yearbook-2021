@@ -1,0 +1,100 @@
+{
+    "groups": [
+        {
+            "name": "Academic",
+            "subgroups": [
+                "American Advertising Federation",
+                "Collegiate Biology Association",
+                "Criminal Justice Association",
+                "Exercise & Sport Science Association",
+                "Health Sciences Association",
+                "Intercollegiate Programming Team",
+                "METES",
+                "Music Teachers National Association",
+                "National Association for Music Education",
+                "Pre-Medical Association",   
+                "Robotics Team",             
+                "Student Legislature",
+                "University Accounting Association",
+                "University Business Association",
+                "University Investing Association",
+                "University Marketing Association",
+                "University Educators Association",
+                "University Language Association",
+                "University Nursing Association"
+            ]
+        },
+        {
+            "name": "Bruins",
+            "subgroups": [
+                "Baseball",
+                "Basketball",
+                "Cross Country & Track",
+                "Golf",
+                "Soccer",
+                "Volleyball"
+            ]
+        },
+        {
+            "name": "Media",
+            "subgroups": [
+                "Collegian",
+                "Vintage",
+                "WBJU TV"
+            ]
+        },
+        {
+            "name": "Men's Societies",
+            "subgroups": [
+                "Alpha Omega Delta Lions",
+                "Alpha Theta Pi Razorbacks",
+                "Basilean Eagles",
+                "Beta Gamma Delta Patriots",
+                "Bryan Bears",
+                "Chi Alpha Pi Cavaliers",
+                "Chi Epsilon Delta Wolves",
+                "Epsilon Zeta Chi Tornadoes",
+                "Kappa Sigma Chi Knights",
+                "Kappa Theta Chi Stallions",
+                "Lanier Falcons",
+                "Nu Delta Chi Vikings",
+                "Phi Beta Chi Bulldogs",
+                "Phi Kappa Pi Rams",
+                "Pi Gamma Delta Royals",
+                "Pi Kappa Sigma Cobras",
+                "Sigma Alpha Chi Spartans"
+            ]
+        },
+        {
+            "name": "Women's Societies",
+            "subgroups": [
+                "Alpha Gamma Tau Eagles",
+                "Alpha Sigma Omicron Ambassadors",
+                "Beta Chi Omega Bear Cubs",
+                "Beta Epsilon Chi Cardinals",
+                "Chi Kappa Delta Dragons",
+                "Chi Theta Upsilon Gators",
+                "Nu Alpha Phi Flames",
+                "Pi Delta Chi Classics",
+                "Sigma Lambda Delta Duskie Birds",
+                "Tau Delta Chi Kangaroos",
+                "Theta Alpha Chi Owls",
+                "Theta Delta Omicron Tigers",
+                "Theta Mu Theta Bandits",
+                "Theta Sigma Chi Colts",
+                "Tri Epsilon Pirates",
+                "Zeta Tau Omega Seagulls",
+                "Zoe Aletheia Wildcats"
+            ]
+        },
+        {
+            "name": "Other",
+            "subgroups": [
+                "Student Leadership Council",
+                "International Student Organization",
+                "Inter-Society Executive Council",
+                "Missions Advance"
+            ]
+        }
+    ]
+}

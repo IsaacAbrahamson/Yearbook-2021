@@ -1,0 +1,125 @@
+nav.navbar a.nav-link:nth-child(3) {
+  color: #CF1827;
+}
+
+header {
+  background: black;
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+
+  input {
+    padding: 10px 20px;
+    font-family: benton, sans-serif;
+    outline: none;
+    color: gray;
+    width: 90%;
+    max-width: 600px;
+  }
+
+  ::placeholder {
+    color: #C4C4C4;
+    opacity: 1;
+  }
+}
+
+main {
+  min-height: 20vh;
+  margin-bottom: 100px;
+}
+
+.month-heading {
+  display: inline-block;
+  padding-top: 40px;
+  margin-bottom: 40px;
+
+  h2 {
+    font-weight: bold;
+    font-size: 72px;
+    color: black;
+    margin-top: 0px;
+    display: block;
+    margin-right: 40px;
+    margin-left: 200px;
+  }
+  .line {
+    display: block;
+    height: 10px;
+    width: 100%;
+    background-color: black;
+  }
+}
+
+#people, #groups {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+
+  .person {
+    padding: 5%;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  h4 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    transition: color 300ms;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover h4 {
+    color: #cf1827;
+  }
+
+  p {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 1.3;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #people, #groups {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .month-heading {
+    padding-top: 60px;
+    margin-bottom: 60px;
+  
+    h2 {
+      font-size: 48px;
+      margin-top: 20px;
+      margin-left: 60px;
+    }
+    .line {
+      display: block;
+      height: 10px;
+      width: 100%;
+      background-color: black;
+    }
+  }
+
+  #people, #groups {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  #people, #groups {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "months": [
+    {
+      "name": "August",
+      "year": "2020",
+      "events": [
+        {
+          "name": "Health Professions Facility Opening",
+          "desc": "On August 10, the University officially opened its newly renovated home for the School of Health Professions on the first floor of Mack Building. Faculty, staff, donors and other special guests gathered in the lobby for a ceremony in which U.S. Senator Lindsey Graham and South Carolina Governor Henry McMaster, among other speakers, praised the work of the University and the impact of its graduates on the State of South Carolina. Following the ceremony, guests were treated to a guided tour of the facilities. A primary goal of the new space provides real-life environments for students majoring in Nursing, Exercise Science, Health Sciences and Communication Disorders. The wellness lab, the 14-bed nursing skills lab and the collaborative work environments are examples of how a repurposed building now serves a new clientele.",
+          "grid": [
+            "img/events/health1-min.jpg",
+            "img/events/health2-min.jpg",
+            "img/events/health4-min.jpg"
+          ]
+        },
+        {
+          "name": "Welcome Week",
+          "desc": "On August 14, the Freshman Class of 2024 arrived on the BJU campus, greeted by enthusiastic students and staff members eager to assist incoming freshmen with the move-in process. Both first-year students and returning students completed a health screen upon arrival. Students then moved into residence halls, began the check-in process and explored the campus. On August 18, classes began along with evening evangelistic services that focused on the Gospel and the University’s mission of teaching students how to live godly lives. During Welcome Week, organizations, clubs and societies showcased themselves to returning and new students alike, in hopes of gaining new members and promoting campus-wide involvement.",
+          "grid": [
+            "img/events/welcome1-min.jpg",
+            "img/events/welcome5-min.jpg",
+            "img/events/welcome4-min.jpg"
+          ]
+        },
+        {
+          "name": "Society Rush and Induction",
+          "desc": "Men’s and women’s societies have an integral role in developing student comradery and encouraging Christian fellowship. A significant part of society involves the elections of multiple society officers, allowing students to gain valuable leadership experience by organizing songs, worship, games and Bible studies. Changes for the fall semester included moving men’s society meetings to Thursday to accommodate COVID guidelines. Despite the inconveniences, students maintained a joyful spirit throughout the semester, often moving society meetings outdoors to take advantage of refreshing weather.\n\nWhile college life can be overwhelming, societies provide a welcome reprieve. Additionally, they stimulate fellowship among believers while building a supportive community that can last far beyond the college experience.",
+          "grid": [
+            "img/events/rush1-min.jpg",
+            "img/events/rush5-min.jpg",
+            "img/events/rush4-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "year": "2020",
+      "events": [
+        {
+          "name": "Fall Chapel Theme",
+          "desc": "The fall chapel theme “Live Worthy of the Gospel” challenged students to examine whether their lives reflect a “joy-filled, Gospel-focused spiritual maturity.” The crown of thorns leading to a crown of royalty shows not only the path Christ followed but also the path that we as Christians should be willing to follow until we lay our crowns at the feet of Christ. Dr. Pettit grounded these messages in the book of Philippians. While in prison, the apostle Paul wrote this letter to fellow believers to encourage a life filled with Christian joy. Paul testifies that he holds “forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain. Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. For the same cause also do ye joy, and rejoice with me” (Phil. 2:16-18). Joy is found in the Lord and in the Gospel. By living worthy of the Gospel, Christians are blessed with a joy that sustains.",
+          "grid": [
+            "img/events/fallchapel3-min.jpg",
+            "img/events/fallchapel2-min.jpg",
+            "img/events/fallchapel4-min.jpg"
+          ]
+        },
+        {
+          "name": "Guest Speakers",
+          "desc": "Wednesday chapels featured speakers bringing messages on the theme of unity. Dr. Bernard Kadio, speaking out of Philemon, stressed that individuals, regardless of social constructs, should be “connected and interact based on the oneness in God.” Our relationship with fellow believers goes beyond society, as does our oneness in Christ. Not only do Christians find power in unity as one body through Christ, but together they also find immeasurable delight in their relationship with God.",
+          "grid": [
+            "img/events/guest2-min.jpg",
+            "img/events/guest3-min.jpg",
+            "img/events/guest-min.jpg"
+          ]
+        },
+        {
+          "name": "Fall Concert, Opera, and Drama Series",
+          "desc": "The BJU Concert, Opera, and Drama series kicked off in early October for the 2020-21 year, marking an important step in the return to traditional campus activities amidst a tumultuous semester. American composer and conductor Rob Kapilow led the audience in an engaging virtual presentation, slowing down and unraveling Beethoven’s well-known chamber work the Archduke Trio. Beginning with the presentation and ending with live interaction with the audience, the program provided an artful combination of education and entertainment while magnifying the creativity of our heavenly Composer.\n\nIn the first weeks of November, the popular a cappella group Voctave brought its talented singers to the stage of FMA. This group’s members have performed around the world in numerous venues, reflecting musical forms from barbershop to musical theater. In a classic program, “The Corner of Broadway & Main Street,” Voctave thrilled the BJU audience with Broadway and Disney favorites like “Feed the Birds” and “Beauty and the Beast.”\n\nLater in November, the student body was treated to a rendition of Shakespeare’s The Tempest. This drama unfolds Prospero’s grand scheme to reclaim his dukedom by employing the services of a mighty tempest. Instrumental to his scheme are the spirit Ariel’s powers, his daughter Miranda’s affection, and, it seems, fate itself. John Michael Cox starred as Prospero in the playwright’s farewell to the stage. Alyssa Chapman played Prospero’s daughter, Miranda, while Josiah Shank took the role of her lover, Ferdinand. Despite the malicious nature of Prospero’s elaborate plot, vengeance and resentment give way to forgiveness and reunion in the final act. The closing moments present Shakespeare’s classic comic ending—the promise of marriage.",
+          "grid": [
+            "img/events/tempest1-min.jpg",
+            "img/events/voctave-min.jpg",
+            "img/events/tempest2-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "October",
+      "year": "2020",
+      "events": [
+        {
+          "name": "Fall Intramural Sports",
+          "desc": "",
+          "grid": [
+            "img/events/fallsports-min.jpg",
+            "img/events/fallsports3-min.jpg",
+            "img/events/fallsports5-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "year": "2020",
+      "events": [
+        {
+          "name": "Turkey Bowl",
+          "desc": "The 73rd yearly Turkey Bowl and Student Body Fall Festival marked the end of the Society soccer season. The Pi Gamma Delta Royals and the Sigma Alpha Chi Spartans faced off in the anticipated championship. The Spartans were victorious with a score of 4 to 0. Following the game, spectators sipped hot cocoa, crunched popcorn and enjoyed hay rides, a festive photo booth and fellowship with friends. ",
+          "grid": [
+            "img/events/turkey-min.jpg",
+            "img/events/turkey2-min.jpg",
+            "img/events/turkey3-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "December",
+      "year": "2020",
+      "events": [
+        {
+          "name": "Christmas Celebration",
+          "desc": "As first semester came to a close, front campus gradually transformed into a festive scene of Christmas Celebration and BJU Family Sing- Along. Other activities included: an ugly Christmas sweater competition on social media, a special lunch in the dining common, photo opportunities at the Welcome Center, a Symphonic Wind Band Concert and a Trombone choir concert. After students departed the campus for Thanksgiving Break, the University invited the Greenville community to drive through front campus for the annual display of Christmas lights throughout the month of December.",
+          "grid": [
+            "img/events/christmas4-min.jpg",
+            "img/events/christmas6-min.jpg",
+            "img/events/christmas5-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "January",
+      "year": "2021",
+      "events": [
+        {
+          "name": "Dramatic Productions",
+          "desc": "In September, the season began with Bake-Off, the playwriting festival where in 24 hours students not only write a play but produce it the next day.\n\nIn October, graduate theatre students adapted and performed Flute Dream, by German author Hermann Hesse. The play follows the journey of a naive young woman who loves to sing. Her view of the world is changed by those she meets on her journey, including a young gardener and a wise old boatman. The audience followed the character from Rodeheaver Auditorium to the front-campus fountain, watching from the Bridge of Nations as the main character climbed into a boat and floated across the fountain.\n\nAn all-female cast showcased Shakespeare’s Measure for Measure, delayed from the previous semester because of COVID-19. The play explores themes like justice and forgiveness with license and legalism serving as extremes that dictate circumstances. One ruler, Duke Vincentio, lets the people do whatever they desire, while the other, Angelo, firmly enforces all laws. The play’s ultimate resolution falls on the lines of finding the middle ground, Act 5 containing the ultimate resolution for all of the characters. Although the first recorded performance of Measure for Measure was December 26, 1604, the play’s timeless message of mercy still resonates for audiences of any age.\n\nFog, a compact drama set on a lifeboat, was first staged by the Provincetown Players in 1917. Little known and seldom staged, it lasts only half an hour. A ship which has presumably crossed the Atlantic has been wrecked somewhere off Newfoundland in thick fog. Three survivors drift in a boat without oars: a successful businessman, a poet and a Polish emigrant whose son has died in her arms. Now, in the darkness, they wait for the dawn.\n\nIn November, A Christmas Carol: A Radio Play utilizes a 1940s radio studio as the setting for Dickens’s classic novella. Actors played multiple roles, sang, played musical instruments and performed onstage sound effects to a live studio audience. The production was a highlight of the Christmas celebrations at the University.",
+          "grid": [
+            "img/events/production-min.jpg",
+            "img/events/production3-min.jpg",
+            "img/events/production2-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "February",
+      "year": "2021",
+      "events": [
+        {
+          "name": "Spring Chapel Themes",
+          "desc": "The spring chapel theme “Seeking Things Above” drew from the book of Colossians where the apostle Paul exhorts the Christians at Colosse to “seek those things which are above, where Christ sitteth on the right hand of God” (Col. 3:1). Dr. Pettit emphasized the truths of Christ’s supremacy. The chapel messages were supplemented with Dr. Pettit’s book Seeking Things Above: A Study in Colossians, which highlights the relevant message that in Christ we have everything we need to be fully equipped to live authentically. The study also explored and applied the timeless truth that Christ is our sufficiency in all relationships, responsibilities and circumstances.",
+          "grid": [
+            "img/events/springchapel2-min.jpg",
+            "img/events/springchapel3-min.jpg",
+            "img/events/springchapel4-min.jpg"
+          ]
+        },
+        {
+          "name": "Spring Concert, Opera, and Drama Series",
+          "desc": "In March, the Theatre department performed A Tale of Two Cities: The Musical. This Broadway production focuses on the love triangle between young and beautiful Lucie Manette, French aristocrat Charles Darnay and drunken English cynic Sydney Carton—all caught in the clutches of the bloody French Revolution. The performance brought out the classic themes of love, revolution and redemption of Dickens’s classic novel.\n\nIn April, Living Gallery focused on the theme “A New Creation.” Living Gallery is a unique presentation weaving together drama, choirs, instrumentalists and sacred masterworks of art depicting Christ’s ministry and passion. This year’s theme drew from Paul’s second epistle to the Corinthians where he boldly declares “if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.” Students enjoyed the creative presentations while also taking to heart the timeless message of the gospel.",
+          "grid": [
+            "img/events/tale3-min.jpg",
+            "img/events/tale4-min.jpg",
+            "img/events/gallery3-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "March",
+      "year": "2021",
+      "events": [
+        {
+          "name": "Bible Conference",
+          "desc": "The annual Bible conference week was headlined by the theme “Sanctify them.” This week was an important time of spiritual refreshment and renewed focus for the BJU community as students were encouraged to take new steps in their individual relationship with Christ.\n\nThe fundraising event for 2021 was directed toward the construction of Hope Christian Hospital in Ivory Coast, West Africa. BJU’s own Dr. Bernard Kadio of the Heath Sciences department introduced the ministry opportunity with a message that quickly took hold of the hearts of students and faculty alike. The fundraising target was set at $200,000, a gift used to open a new health program, train 20 new bilingual nurses and reach thousands more patients with healthcare and the gospel. Donations came not only from faculty, staff, students, alumni and business owners, but also from scores of churches across the country in response to a stirring video composed by the Basilean Eagles men’s society.\n\nFeatured speakers included Dr. Sam Horn, president of The Master’s University and Seminary in California, The Wilds of New England director Rand Hummel and Will Galkin, pastor of Gospel Grace Church in Salt Lake City, Utah.",
+          "grid": [
+            "img/events/conference-min.jpg",
+            "img/events/conference4-min.jpg",
+            "img/events/conference5-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "year": "2021",
+      "events": [
+        {
+          "name": "Spring Intramural Sports",
+          "desc": "",
+          "grid": [
+            "img/events/vball-min.jpg",
+            "img/events/frisbee-min.jpg",
+            "img/events/vball2-min.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "May",
+      "year": "2021",
+      "events": [
+        {
+          "name": "Commencement",
+          "desc": "Commencement was a conclusion and a beginning for degree recipients of the 2020-2021 academic year at BJU. These graduates overcame the incredible adversity of an unprecedented time in the school’s history; for their last three semesters they faced the uncertainty and consequences of a pandemic that put the world on notice.  Yet as President Pettit reiterated on multiple occasions, the spirit of cheerfulness that students maintained was a testament to their resilience and persevering spirit.\n\nDuring the commencement event, graduates shared encouraging and inspiring stories that reflected sincere gratitude for God’s faithfulness. Following the ceremony, graduates posed for pictures with family, friends and faculty members, documenting memories and recognizing the contributions that various people had made to their lives. As the graduates exited campus, they entered a new chapter of their lives, equipped with an outstanding Christian liberal arts education and prepared to infuse their new workplaces, graduate schools and ministries with the professionalism and diverse skills of strong Christian leaders.",
+          "grid": []
+        }
+      ]
+    }
+  ]
+}

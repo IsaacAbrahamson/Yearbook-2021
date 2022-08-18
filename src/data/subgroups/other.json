@@ -1,0 +1,68 @@
+{
+    "subgroups": [
+        {
+            "name": "Student Leadership Council",
+            "group": "Other",
+            "img": "",
+            "people": [
+                "Rachel Ruth Anderson",
+                "Daniel Ryan Conn",
+                "Taylor Ann Holland",
+                "Jalen Marbella Ontoy",
+                "Heath Jared Parish",
+                "Troy Alexander Renaux",
+                "Sarah Carmen Rumpf",
+                "Judah Benjamin Smith",
+                "Ella Katherine Weier",
+                "Aline Nicole Zimmer"
+            ]
+        },
+        {
+            "name": "International Student Organization",
+            "group": "Other",
+            "img": "",
+            "people": [
+                "Luke Hudson Bachman",
+                "Nicoll Botero",
+                "Dawei Cai",
+                "David Hortta",
+                "Elizabeth Anne Hynek",
+                "Daraven Michael Perez",
+                "Keila Claudy Cuet Westreicher"
+            ]
+        },
+        {
+            "name": "Inter-Society Executive Council",
+            "group": "Other",
+            "img": "",
+            "people": [
+                "Rachel Ruth Anderson",
+                "Christine Marie Boone",
+                "Bethany Hope Canterbury",
+                "Caleb James Davis",
+                "Kathryn Ruth Dunwoody",
+                "Zachary Scott Hilton",
+                "Abigail Joyce Hutton",
+                "Robert Miles Scarbor II",
+                "Heath Jared Parish",
+                "Sarah Elizabeth Wallen",
+                "Matthew Gregory Zirkle"
+            ]
+        },
+        {
+            "name": "Missions Advance",
+            "group": "Other",
+            "img": "",
+            "people": [
+                "Luke Hudson Bachman",
+                "Jordan Andrew Baun",
+                "Elisabeth Grace Chavez",
+                "Hannah Faith Fuller",
+                "Timothy Joel Martin",
+                "Luke Hudson Messer",
+                "Giovanna Sasamin dos Santos"
+            ]
+        }
+    ],
+    "group": "Other"
+}

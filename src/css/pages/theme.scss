@@ -1,0 +1,29 @@
+.section p {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.section p:first-of-type {
+  margin-bottom: 30px;
+}
+
+.section p:last-of-type {
+  margin-bottom: 70px;
+}
+
+.heading {
+  margin-top: 20px;
+}
+
+a.goback {
+  margin: 0 auto;
+  background: #B09042;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 4px 40px;
+  margin-top: 40px;
+  z-index: 999999;
+}

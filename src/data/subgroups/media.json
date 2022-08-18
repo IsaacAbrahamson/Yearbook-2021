@@ -1,0 +1,59 @@
+{
+    "subgroups": [
+        {
+            "name": "Collegian",
+            "group": "Media",
+            "img": "img/groups/media/collegian.jpg",
+            "people": [
+                "Susannah Lee Castle",
+                "Benjamin Andrew Clemons",
+                "Hannah Grace Davis",
+                "Alicia Joy DeMott",
+                "Katie Ruth French",
+                "Mark Joseph Sinopera Kamibayashiyama",
+                "Victoria Rose Olachea",
+                "Caleb Albert Olivero",
+                "Andrew Marcus Pledger",
+                "Jewel Joy Schuurmans",
+                "Margaret Joanna Scoggins",
+                "Lindsay Joy Shaleen",
+                "Kayle Madison Stevenson",
+                "Olivia Brooke Thomas",
+                "Abigail Elisabeth Vork"
+            ]
+        },
+        {
+            "name": "Vintage",
+            "group": "Media",
+            "img": "img/groups/media/vintage.jpg",
+            "people": [
+                "Isaac Abrahamson",
+                "Zenny Bayer",
+                "Rose Camfield",
+                "Susy Castle",
+                "Isaac Chisholm",
+                "Sam Hixson",
+                "Cameron Jeffries",
+                "Sharon Kearns",
+                "Maddy Klass",
+                "Elijah Krefle",
+                "Sarah Mills",
+                "Ellie Myers",
+                "Elisabeth Parks",
+                "Josh Rohrer",
+                "Gretchen Seelenbinder",
+                "Carlotta Silos",
+                "Joshua Venegas",
+                "Kelly Vervaet",
+                "Elias Watson"
+            ]
+        },
+        {
+            "name": "WBJU TV",
+            "group": "Media",
+            "img": "img/groups/media/wbju.jpg",
+            "people": []
+        }
+    ],
+    "group": "Media"
+}

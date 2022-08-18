@@ -1,0 +1,47 @@
+nav.navbar {
+  background: white;
+
+  a {
+    font-size: 36px;
+    color: black;
+  }
+  a.navbar-brand {
+    font-size: 45px;
+  }
+
+  button:focus {
+    box-shadow: none;
+  }
+
+  i {
+    font-size: 35px;
+  }
+}
+
+.content {
+  margin-top: 102px;
+}
+
+.hamburger-box {
+  margin-bottom: -5px;
+}
+
+@media only screen and (max-width: 768px) {
+  nav.navbar {
+    a {
+      font-size: 25px;
+    }
+    a.navbar-brand {
+      font-size: 36px;
+    }
+  }
+  .content {
+    margin-top: 85px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .content {
+    margin-top: 80px !important;
+  }
+}

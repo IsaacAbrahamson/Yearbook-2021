@@ -1,0 +1,18 @@
+
+extends base
+
+block styles
+  link(rel='stylesheet', href='css/pages/groups.css')
+
+block scripts  
+  script(src='https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js')
+  script(src='js/particles-alternate.js')
+
+block content
+  .jumbotron.alternate
+    .overlay#particles-js
+      h1 GROUPS
+  section
+    .boxes
+      each group in groups
+        a.box(href=`${group.name}.html`)= group.name

@@ -1,0 +1,210 @@
+{
+    "subgroups": [
+        {
+            "name": "American Advertising Federation",
+            "group": "Academic",
+            "img": "",
+            "people": []
+        },
+        {
+            "name": "Collegiate Biology Association",
+            "group": "Academic",
+            "img": "img/groups/academic/biology.jpg",
+            "people": [
+                "Jonathan Isaac Batchelder",
+                "Margaret Frances Billings",
+                "Anna Noelle Garian",
+                "Hannah Rose Risser",
+                "Kevin Shawn Thomas",
+                "Rachel Lynn Westphal"
+            ]
+        },
+        {
+            "name": "Criminal Justice Association",
+            "group": "Academic",
+            "img": "img/groups/academic/criminal.jpg",
+            "people": [
+                "Zachary Michael Berard",
+                "Katie Marie Black",
+                "James Sterling Crowder",
+                "John William Morrissey",
+                "Michael Edward Vaughn"
+            ]
+        },
+        {
+            "name": "Exercise & Sport Science Association",
+            "group": "Academic",
+            "img": "img/groups/academic/exercise.jpg",
+            "people": [
+                "Daniel Bruce Cone",
+                "Hannah Elizabeth Hill",
+                "Peter Nguyen",
+                "Kristina Joy Poore",
+                "Gretchen Platt Rathert",
+                "Quiyante Zaire Simpson-Burroughs",
+                "Casey Andrew Smith",
+                "Jessiann Joy Grace Wiedmann",
+                "David Richard Young"
+            ]
+        },
+        {
+            "name": "Health Sciences Association",
+            "group": "Academic",
+            "img": "img/groups/academic/health.jpg",
+            "people": [
+                "Samuel Benjamin Gunther",
+                "Abigail Kathleen Leaman",
+                "Julia Louise Maier",
+                "Joshua William Norton",
+                "Nathan Daniel Stewart",
+                "Jonah Eugene Woo"
+            ]
+        },
+        {
+            "name": "Intercollegiate Programming Team",
+            "group": "Academic",
+            "img": "img/groups/academic/programming.jpg",
+            "people": []
+        },
+        {
+            "name": "METES",
+            "group": "Academic",
+            "img": "img/groups/academic/metes.jpg",
+            "people": []
+        },
+        {
+            "name": "Music Teachers National Association",
+            "group": "Academic",
+            "img": "img/groups/academic/musicteacher.jpg",
+            "people": [
+                "Anna Chunting Fraley",
+                "Krista Michele Hagglund",
+                "Eleanor Joy Myers",
+                "Tayler Makenzie Otis"
+            ]
+        },
+        {
+            "name": "National Association for Music Education",
+            "group": "Academic",
+            "img": "img/groups/academic/musiced.jpg",
+            "people": [
+                "Nathan Preston Gardner",
+                "Eleanor Joy Myers",
+                "Kristin Marie Rutledge",
+                "Mikayla Elizabeth Steele"
+            ]
+        },
+        {
+            "name": "Pre-Medical Association",
+            "group": "Academic",
+            "img": "img/groups/academic/premed.jpg",
+            "people": [
+                "Esther Ruth Anderson",
+                "Evan Paul Case",
+                "Helen Blythe Coss",
+                "Gannett Leigh Loftus",
+                "Jonathan Reagan Musselman",
+                "Brittany Elizabeth Shirley",
+                "Rachel Lynn Westphal"
+            ]
+        },
+        {
+            "name": "Robotics Team",
+            "group": "Academic",
+            "img": "img/groups/academic/robotics.jpg",
+            "people": []
+        },
+        {
+            "name": "Student Legislature",
+            "group": "Academic",
+            "img": "img/groups/academic/legislature.jpg",
+            "people": [
+                "Carson James McQuaid",
+                "Judah Benjamin Smith"
+            ]
+        },
+        {
+            "name": "University Accounting Association",
+            "group": "Academic",
+            "img": "img/groups/academic/accounting.jpg",
+            "people": [
+                "Mark Joseph Lehner",
+                "Carson James McQuaid",
+                "Caroline Faith Mitchell",
+                "Sophia Brianna Mott"
+            ]
+        },
+        {
+            "name": "University Business Association",
+            "group": "Academic",
+            "img": "img/groups/academic/business.jpg",
+            "people": [
+                "Christian Saville Arnold",
+                "Joanna Elizabeth Jarrell",
+                "Anne Katherine Thompson",
+                "Bailey Elizabeth Wright"
+            ]
+        },
+        {
+            "name": "University Investing Association",
+            "group": "Academic",
+            "img": "img/groups/academic/investing.jpg",
+            "people": [
+                "Justus Isaiah Dobish",
+                "Daniel Bennett Logan",
+                "Nathan Wells Swaim",
+                "Emily Faith Wynn",
+                "James Lincoln Wynn"
+            ]
+        },
+        {
+            "name": "University Marketing Association",
+            "group": "Academic",
+            "img": "img/groups/academic/marketing.jpg",
+            "people": [
+                "Christen DeAnn Moore",
+                "Jessica Joy Teruel",
+                "Aimee Marie Tewes"
+            ]
+        },
+        {
+            "name": "University Educators Association",
+            "group": "Academic",
+            "img": "img/groups/academic/educators.jpg",
+            "people": [
+                "Kristina Noel Bryant",
+                "Carlos David Herrera",
+                "Gennah Rae Mason",
+                "Kristin Marie Rutledge"
+            ]
+        },
+        {
+            "name": "University Language Association",
+            "group": "Academic",
+            "img": "img/groups/academic/language.jpg",
+            "people": [
+                "Rachel Marie Franklin",
+                "Caleb Daniel Garris",
+                "Virginia Lee Gilbert",
+                "Daniel Peter Hudson",
+                "Melena Danielle Jenks",
+                "Elise Marie Snow"
+            ]
+        },
+        {
+            "name": "University Nursing Association",
+            "group": "Academic",
+            "img": "",
+            "people": [
+                "Melinda Donalee Dersch",
+                "Cameron Lynn Fordham",
+                "Jubilee Jeanne Johnston",
+                "Daniel Jeremiah Miller",
+                "Joshua William Norton",
+                "Sarah Mae Vanderberg",
+                "Hannah Jolayne Woo"
+            ]
+        }
+    ],
+    "group": "Academic"
+}

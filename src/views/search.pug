@@ -1,0 +1,19 @@
+extends base
+
+block styles
+  link(rel='stylesheet', href='css/pages/search.css')
+
+block scripts
+  script(src='js/lodash.js')
+  script(src='js/search.js')
+
+block content
+  header 
+    input(id='search' type='text' placeholder='search a person...' autofocus)
+  
+  main
+    .month-heading
+      h2 Results
+      .line
+    .container
+      #people
