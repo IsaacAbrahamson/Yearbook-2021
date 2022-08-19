@@ -27,7 +27,7 @@ We used this design as the basis for creating a website mockup in Figma.
 
 This was the first year that I led the yearbook web team. The past years had used Python to render the JSON and Pug files. Because I am much more experience in JavaScript than Python, I rebuilt the entire render pipeline using Gulp.js.
 
-```
+```javascript
 // Located at /gulpfile.js
 
 function views() {
@@ -50,7 +50,7 @@ function views() {
 }
 ```
 This was used to render a number of Pug files with data from JSON. For example, the Pug code could iterate over all of the groups in the yearbook to easily create the markup for the Groups page.
-```
+```pug
 // Located at /src/views/groups.pug
 
 section
@@ -59,7 +59,7 @@ section
         a.box(href=`${group.name}.html`)= group.name
 ```
 The main reason for using Pug and JSON was so that a number of group pages with different data could be created with one template. This one little bit of code could pre-render almost 70 subgroup pages.
-```
+```pug
 // Located at /src/views/groups-subgroups.pug
 
 block content
