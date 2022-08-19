@@ -60,7 +60,7 @@ section
 ```
 The main reason for using Pug and JSON was so that a number of group pages with different data could be created with one template. This one little bit of code could pre-render almost 70 subgroup pages.
 ```pug
-// Located at /src/views/groups-subgroups.pug
+// Located at /src/views/groups-detail.pug
 
 block content
   .jumbotron.alternate
@@ -68,11 +68,15 @@ block content
       h1 GROUPS
   section 
     h2= name
-    .goback
-      a(href='groups.html') <span><</span> Back to Groups
-    .boxes
-      each subgroup in subgroups
-        a.box(href=`${subgroup}.html`)= subgroup
+    .container
+      .goback
+        a(href=`${group}.html`) <span><</span> Back to #{group}
+      .img-fill
+        img(src= img)
+      h4#members Members
+      .list
+        each person in people
+          p= person
  ```
 
 ## Things I Learned
