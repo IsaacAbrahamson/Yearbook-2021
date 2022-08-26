@@ -1,4 +1,4 @@
-# Yearbook 2021
+# 2021 Yearbook
 
 http://www.bjuvintage.com/2021/
 
